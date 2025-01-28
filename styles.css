@@ -1,0 +1,92 @@
+body {
+    background-color: #FFF8E7; 
+    color: black;
+    font-family: Arial, sans-serif;
+    margin: 2;
+    padding: 0;
+    font-size: 20px; 
+}
+
+h1, h2, h3, strong {
+    color: #808000; 
+}
+
+span {
+    font-size: 18px;
+
+}
+
+.title {
+    text-align: center; 
+    margin-bottom: 20px; 
+}
+
+.color1 {
+    color: #808000;
+}
+
+.str {
+    color: #808000;
+    font-size: 26px;
+}
+
+.hr-line {
+    border: 2;
+    height: 1px;
+    background-color: #808000; 
+    margin: 20px auto; 
+    width: 66.66%
+    
+}
+
+.french {
+    color: #4C7D80; /* Light blue color for French text */
+    font-size: 20px;
+}
+
+h1 {
+    margin: 0;
+}
+
+#menu {
+    background-color: #808000; 
+    padding: 20px;
+    font-size: 24px;
+}
+
+#menu a {
+    color: white; 
+    text-decoration: none;
+    margin-right: 20px;
+}
+
+#menu a:hover {
+    text-decoration: underline;
+}
+
+#home-link {
+    background-color: #A0A060; 
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+#examples-link {
+    background-color: #A0A060; 
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+#publications-link {
+    background-color: #A0A060; 
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+#Enseignement-link {
+    background-color: #A0A060; 
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+section {
+    margin: 20px;
+}
